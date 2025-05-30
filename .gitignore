@@ -1,3 +1,6 @@
 /data/
 /spectrograms/
 /temp_clips/
+Dockerfile
+/lightning_logs/
+/data3_preencoded_overlap/

@@ -1,0 +1,10 @@
+{
+  "dataset_type": "local",
+  "sample_rate": 44100,
+  "sample_size": 131072,
+  "audio_channels": 2,
+  "train_path": "/workspace/data3",
+  "file_extensions": [".wav"],
+  "segment_duration_seconds": 3.0,
+  "segments_per_file": -1
+}
