@@ -4,3 +4,4 @@
 Dockerfile
 /lightning_logs/
 /data3_preencoded_overlap/
+/data4_preencoded_overlap/
