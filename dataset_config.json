@@ -1,14 +1,14 @@
 {
   "dataset_type": "pre_encoded",
-  "sample_rate": 352800,
-  "sample_size": 176400,
+  "sample_rate": 44100,
+  "sample_size": 352800,
   "audio_channels": 2,
   "random_crop": false,
   "drop_last": true,
   "datasets": [
     {
-      "id": "remix_data",
-      "path": "/workspace/data3_preencoded_overlap",
+      "id": "yb_data",
+      "path": "/workspace/data4_preencoded_overlap",
       "custom_metadata_module": "/workspace/stable-audio-tools/dummy_metadata.py"
     }
   ]
